@@ -1,0 +1,5 @@
+c:\users\trice\documents\visual studio 2013\Projects\MasterMindGame\MasterMindGame\bin\Debug\MasterMindGame.dll
+c:\users\trice\documents\visual studio 2013\Projects\MasterMindGame\MasterMindGame\bin\Debug\MasterMindGame.pdb
+c:\users\trice\documents\visual studio 2013\Projects\MasterMindGame\MasterMindGame\obj\Debug\MasterMindGame.dll
+c:\users\trice\documents\visual studio 2013\Projects\MasterMindGame\MasterMindGame\obj\Debug\MasterMindGame.pdb
+C:\Users\trice\documents\visual studio 2013\Projects\MasterMindGame\MasterMindGame\obj\Debug\MasterMindGame.csprojResolveAssemblyReference.cache
